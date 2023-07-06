@@ -1,0 +1,8 @@
+.env
+venv
+
+.idea
+.vscode
+__pycashe__/
+*.py[cod]
+*.so
